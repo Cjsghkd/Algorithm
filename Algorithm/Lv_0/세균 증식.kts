@@ -18,3 +18,14 @@ class Solution {
         return answer
     }
 }
+
+// 가장 많은 답안
+// class Solution {
+//    fun solution(n: Int, t: Int): Int {
+//        var answer: Int = n
+//        for(time in 1..t) {
+//            answer *= 2
+//        }
+//        return answer
+//    }
+//}

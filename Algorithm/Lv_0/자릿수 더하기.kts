@@ -18,3 +18,8 @@ class Solution {
         return answer
     }
 }
+
+// 가장 많은 답안
+// class Solution {
+//    fun solution(n: Int): Int = n.toString().toCharArray().sumOf { it.toString().toInt() }
+//}

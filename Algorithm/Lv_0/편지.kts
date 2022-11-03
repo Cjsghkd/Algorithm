@@ -13,3 +13,14 @@ class Solution {
         return answer
     }
 }
+
+// 가장 많은 답안
+// class Solution {
+//    fun solution(message: String): Int {
+//        var answer: Int = 0
+//
+//        answer = message.length * 2 (가장 많은 답안)
+//
+//        return answer
+//    }
+//}
