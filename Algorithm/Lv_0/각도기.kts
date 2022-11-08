@@ -1,6 +1,7 @@
 // 2022-11-08
 
 // 프로그래머스 Lv0 (각도기)
+
 class Solution {
     fun solution(angle: Int): Int {
         var answer: Int = angle
