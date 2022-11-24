@@ -11,3 +11,8 @@ class Solution {
         return answer
     }
 }
+
+// 가장 많은 답안
+// class Solution {
+//    fun solution(my_string: String): String = my_string.reversed()
+//}
